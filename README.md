@@ -1,7 +1,7 @@
 # Uber_EDA_Analysis
 Analysis done using Pandas, Matplotlib, Numpy, Seaborn
 ## Overview
-Having previously done an EDA on feaux uber data "pyber" I was curious about how the process would feel with some real data. This is an Uber data set from Kaggle showing a customer's uber usage behavior over the course of a year. 
+Having previously done an EDA on faux uber data "pyber" I was curious about how the process would feel with some real data. This is an Uber data set from Kaggle showing a customer's uber usage behavior over the course of a year. 
 
 ## Results
 
